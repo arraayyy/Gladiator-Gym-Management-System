@@ -1,0 +1,12 @@
+(✅IN UI) 1. Search Bar (For customer page and customer validity)
+2. Update on the membership - customer can extend their subscription ()
+	- Sa update kay ang kwaon niya na value kay end date sa previous package nya mu add dayn ang package na ge pili niya mao dayn na ang bag-ong end date
+	- Dili ka make ug lain entry if naa sa list sa customer validity
+3. Transaction Summary - Summary of all the packages the customer has bought 
+		- Summary also on all the customers transactions
+4. Change the package plan to include trainer and the price will change according to the trainer’s price
+	-In "subscription page" while adding new customer subscription you can select a package then you can select a trainer,
+	 after selecting the trainer you can add the trainer's rate
+	- change the trainer picking, you will pick the trainer when you choose a package
+	- same thing to do when updating the customer subscription
+6. If ma expire ang plan, then naay gi avail lain, mapulihan sa “Plan table”
